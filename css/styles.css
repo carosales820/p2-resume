@@ -1,14 +1,39 @@
 /* Your Website Styles */
 body {
-	background: #eee;
+	background: #000;
+}
+
+li	{
+	list-style:none;	
+}
+
+header {
+	font-family: 'Ubuntu', sans-serif;
+	color: yellow;
 }
 
 
+h2, h3, h4, p, li {
+	font-family: 'Ubuntu', sans-serif;
+	color:#fff;
+}
 div {
 	margin-top: -60px;	x 
 }
 
+a{
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
+	text-decoration: none;
+}
 
+a:visited {
+	color: white;
+}
+
+a:hover {
+	color: yellow;
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
