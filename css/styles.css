@@ -16,7 +16,9 @@ header {
 h2, h3, h4, p, li {
 	font-family: 'Ubuntu', sans-serif;
 	color:#fff;
+
 }
+
 div {
 	margin-top: -60px;	x 
 }
@@ -33,6 +35,10 @@ a:visited {
 
 a:hover {
 	color: yellow;
+}
+
+#skills{
+	text-align: left;
 }
 /* Show Grid */
 .showgrid {
