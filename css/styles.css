@@ -7,38 +7,44 @@ li	{
 	list-style:none;	
 }
 
-header {
-	font-family: 'Cardo', sans-serif;
-	color: yellow;
-}
 
 h1{
 	font-family: 'Cardo:700', serif;
-	color: #000;
+	color: #3E3E40;
+	font-variant: small-caps;
+	margin-bottom: 1em;
 }
 
-h2, h3, h4, p, li {
-	font-family: 'Cardo', sans-serif;
-	color:#3E3E40;
-
-}
-
-div {
-	margin-top: -60px;	x 
-}
 
 a{
 	font-family: 'cardo', sans-serif;
-	color: #002434;
+	color: #3E3E40;
 	text-decoration: none;
 }
 
+nav{
+	color: #000;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: .5em;
+  padding-bottom: .5em;
+  background: #002434;
+  opacity: .8;
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+  margin-right: 1em;
+}
+
+
 a:visited {
-	color: white;
+	color: #3E3E40;;
 }
 
 a:hover {
-	color: yellow;
+	color: #fff;
+	background: #3E3E40;
 }
 
 #skills{
