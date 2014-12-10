@@ -8,14 +8,18 @@ li	{
 }
 
 header {
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Cardo', sans-serif;
 	color: yellow;
 }
 
+h1{
+	font-family: 'Cardo:700', serif;
+	color: #000;
+}
 
 h2, h3, h4, p, li {
-	font-family: 'Ubuntu', sans-serif;
-	color:#fff;
+	font-family: 'Cardo', sans-serif;
+	color:#3E3E40;
 
 }
 
@@ -24,8 +28,8 @@ div {
 }
 
 a{
-	font-family: 'Ubuntu', sans-serif;
-	color: white;
+	font-family: 'cardo', sans-serif;
+	color: #002434;
 	text-decoration: none;
 }
 
